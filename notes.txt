@@ -1,4 +1,17 @@
 <<<<<<< HEAD
+
+Hej, det här är min första fil i mitt repo
+
+Hej, Hej!  Jag har ändrat det:)
+ 
+
+git clone https://github.com/Phredo/kvalit12test.git
+
+chris was here
+
+ Olga hälsar!
+=======
+<<<<<<< HEAD
 å i åa ä e ö
 =======
 <<<<<<< HEAD
@@ -22,4 +35,8 @@ chris was here
 Janne was also here
 =======
 >>>>>>> b3b89c47b8947038af729463d9aa605597157415
+<<<<<<< HEAD
+>>>>>>> 2a34dce5ec32fdbd32dfe06da77bd39828ed0a85
+=======
 >>>>>>> f92dc5740188f1df75ce087eb0b3e8cfe7004347
+>>>>>>> ae2fd6a6c3b1d5ba58d318bf05caf1234c007373
