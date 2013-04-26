@@ -1,3 +1,33 @@
+
 Hej, det här är min första fil i mitt repo
 
 hej hopp!
+
+Hej, det här är min första fil i mitt repo
+
+Hej, Hej!  Jag har ändrat det:)
+ 
+
+git clone https://github.com/Phredo/kvalit12test.git
+
+chris was here
+
+ Olga hälsar!
+
+å i åa ä e ö
+
+Hej, det här är min första fil i mitt repo
+
+janne e bäst
+
+git clone https://github.com/Phredo/kvalit12test.git
+
+bläbläblä janne är bäst
+
+git clone https://github.com/Phredo/kvalit12test.git
+
+chris was here
+
+
+Janne was also here
+
