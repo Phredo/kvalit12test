@@ -1,3 +1,10 @@
+
 Hej, det här är min första fil i mitt repo
 
 Hej, Hej!  Jag har ändrat det:)
+ 
+
+git clone https://github.com/Phredo/kvalit12test.git
+
+chris was here
+
