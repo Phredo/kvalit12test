@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hej, det här är min första fil i mitt repo
 
 janne e bäst
@@ -8,3 +9,8 @@ git clone https://github.com/Phredo/kvalit12test.git
 >>>>>>> af969eea7ffe1f5fd8fbc03f4b5278a4c388def8
 
 bläbläblä janne är bäst
+=======
+git clone https://github.com/Phredo/kvalit12test.git
+
+chris was here
+>>>>>>> 7eefd389b653519100385357fcb4ad532cd2c55d
