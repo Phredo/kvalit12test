@@ -30,5 +30,13 @@ git clone https://github.com/Phredo/kvalit12test.git
 
 chris was here
 >>>>>>> 7eefd389b653519100385357fcb4ad532cd2c55d
+<<<<<<< HEAD
+
+Janne was also here
+=======
 >>>>>>> b3b89c47b8947038af729463d9aa605597157415
+<<<<<<< HEAD
 >>>>>>> 2a34dce5ec32fdbd32dfe06da77bd39828ed0a85
+=======
+>>>>>>> f92dc5740188f1df75ce087eb0b3e8cfe7004347
+>>>>>>> ae2fd6a6c3b1d5ba58d318bf05caf1234c007373
