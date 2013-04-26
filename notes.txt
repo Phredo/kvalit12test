@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Hej, det här är min första fil i mitt repo
 
@@ -9,3 +10,25 @@ git clone https://github.com/Phredo/kvalit12test.git
 chris was here
 
  Olga hälsar!
+=======
+<<<<<<< HEAD
+å i åa ä e ö
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+Hej, det här är min första fil i mitt repo
+
+janne e bäst
+=======
+git clone https://github.com/Phredo/kvalit12test.git
+
+>>>>>>> af969eea7ffe1f5fd8fbc03f4b5278a4c388def8
+
+bläbläblä janne är bäst
+=======
+git clone https://github.com/Phredo/kvalit12test.git
+
+chris was here
+>>>>>>> 7eefd389b653519100385357fcb4ad532cd2c55d
+>>>>>>> b3b89c47b8947038af729463d9aa605597157415
+>>>>>>> 2a34dce5ec32fdbd32dfe06da77bd39828ed0a85
