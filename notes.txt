@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+å i åa ä e ö
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 Hej, det här är min första fil i mitt repo
 
@@ -14,5 +17,9 @@ git clone https://github.com/Phredo/kvalit12test.git
 
 chris was here
 >>>>>>> 7eefd389b653519100385357fcb4ad532cd2c55d
+<<<<<<< HEAD
 
 Janne was also here
+=======
+>>>>>>> b3b89c47b8947038af729463d9aa605597157415
+>>>>>>> f92dc5740188f1df75ce087eb0b3e8cfe7004347
