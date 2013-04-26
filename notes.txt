@@ -1,3 +1,2 @@
-Hej, det här är min första fil i mitt repo
+git clone https://github.com/Phredo/kvalit12test.git
 
-Hej jag ser vad du skrivit /per kvalit12
